@@ -1,4 +1,4 @@
-# Credit_Scoring
+## Credit_Scoring
 
-1.f
-2.e
+- 1.  e
+  2.  3s
